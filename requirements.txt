@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+numpy>=1.20.0
+scipy>=1.6.0
+matplotlib>=3.4.0
+plotly>=5.0.0
+pandas>=1.2.0
+flask>=2.0.0
+scikit-learn>=0.24.0
+requests>=2.25.0
